@@ -5,7 +5,7 @@
 ## Thông tin cá nhân
 
 - Họ và tên: Đinh Văn Bình
-- Mã học viên:
+- Mã học viên: 2A202602830
 - Vai trò / bối cảnh : sinh viên năm 4
 - Công việc hằng tuần (3-5 gạch đầu dòng để soi problem):
   - Di chuyển đi học bằng xe bus công cộng từ nhà đến trường (phải chuyển tiếp từ 2 tuyến trở lên).

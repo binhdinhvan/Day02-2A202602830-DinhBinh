@@ -4,8 +4,8 @@
 
 ## Thông tin cá nhân
 
-- Họ và tên:
-- Mã học viên:
+- Họ và tên: Đinh Văn Bình
+- Mã học viên: 2A202602830
 - Nhóm:
 - Candidate problem nhóm chọn:
 
