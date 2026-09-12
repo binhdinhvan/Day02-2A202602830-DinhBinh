@@ -11,7 +11,7 @@
   - Di chuyển đi học bằng xe bus công cộng từ nhà đến trường (phải chuyển tiếp từ 2 tuyến trở lên).
   - Đi học trên lớp các môn chuyên ngành, điểm danh QR code theo từng ca học.
   - Họp nhóm thảo luận bài tập lớn / đồ án hàng tuần qua Google Meet và nhóm chat.
-  - Chuẩn bị hồ sơ thực tập tốt nghiệp, tìm hiểu yêu cầu tuyển dụng và cơ hội việc làm từ cựu sinh viên.
+  - Tìm hiểu yêu cầu tuyển dụng và cơ hội việc làm từ cựu sinh viên.
   - Tự học và sử dụng các tiện ích, cơ sở vật chất tại trường (thư viện, phòng tự học, máy in).
 
 ---
