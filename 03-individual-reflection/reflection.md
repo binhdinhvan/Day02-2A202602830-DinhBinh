@@ -6,7 +6,7 @@
 
 - Họ và tên: Đinh Văn Bình
 - Mã học viên: 2A202602830
-- Nhóm: Nhóm 5 (Nguyễn Thành Vinh, Trần Hữu Đức, Đinh Văn Bình, Doãn Hữu Nguyên, Tô Huy Thông)
+- Nhóm: Nhóm Hí ộ (Nguyễn Thành Vinh, Trần Hữu Đức, Đinh Văn Bình, Doãn Hữu Nguyên, Tô Huy Thông)
 - Candidate problem nhóm chọn: Lọc slide hoặc PDF dài để tạo bản đồ nội dung ưu tiên theo learning objectives.
 
 ---
